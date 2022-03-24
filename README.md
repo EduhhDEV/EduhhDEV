@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EduhhDEV
+- 👀 I’m interested in JavaScript and Java
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript, discord bot's community
+- 📫 How to reach me with discord (Eduhh#9275)
