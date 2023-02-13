@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @EduhhDEV
-- 👀 I’m interested in JavaScript and Java
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript, discord bot's community
-- 📫 How to reach me with discord (Eduhh#9275)
+## 👋 Aoba! me chamo Eduhh
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=eduhhdev&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=eduhhdev&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=eduhhdev&show_icons=true" />
+</picture>
+
+- 👀 Atualmente estudo Java
+- 🧱 Realizo projetos de servidores de minecraft
+- 🎄 Trabalho na OceanCompany ("My little business")
+- 📫 Você pode me encontrar no discord pelo contato: Eduhh#9275
