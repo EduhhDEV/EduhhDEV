@@ -1,9 +1,9 @@
-## 👋 Aoba! me chamo Eduhh
+## 👋 Opa! me chamo Eduhh
 
 - 👀 Atualmente estudo Java
 - 🧱 Realizo projetos de servidores de minecraft
-- 🎄 Trabalho na OceanCompany ("My little business")
-- 📫 Você pode me encontrar no discord pelo contato: Eduhh#9275
+- 🎄 Trabalho na OceanCompany
+- 📫 Você pode me encontrar no discord pelo contato: o.eduhh
 
 <picture>
 <source 
